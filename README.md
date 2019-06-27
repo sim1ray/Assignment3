@@ -7,3 +7,6 @@ This is a Java GUI application that allows all basic file editing functionality:
 5. Open recent files
 6. Copy, paste, replace text
 
+## Application Snapshot
+
+![Alt text](Notepad.png)
